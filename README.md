@@ -1,1 +1,1 @@
-# Dynamic Path Planning for an Autonomous Wheelchair
+# Dynamic Path Planning for Autonomous Wheelchairs
