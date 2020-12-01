@@ -11,6 +11,6 @@ This project demonstrated proficiency in the following areas:
 * Object-oriented programming
 * Algorithms design and analysis
 * Data structures (heaps and tree-based structures)
-* Calculus
+* Differential equations
 
 In the future, the project will be imported to ROS and simulated in a 3D environment.
