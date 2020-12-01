@@ -8,6 +8,7 @@ The local planner was designed by coding and then modifying the A* algorithm, wh
 This project demonstrated proficiency in the following areas:
 * Object-oriented programming
 * Algorithms design and analysis
+* Data structures (heaps and tree-based structures)
 * Calculus
 
 In the future, the project will be imported to ROS and simulated in a 3D environment.
