@@ -13,4 +13,5 @@ This project demonstrated proficiency in the following areas:
 * Data structures (heaps and tree-based structures)
 * Differential equations
 
-In the future, the project will be imported to ROS and simulated in a 3D environment.
+This task was part of a larger project that involved building the autonomous pipeline for an autonomous wheelchair. Due to COVID-19 interfacing between the various
+subsystems of the wheelchair was not implemented. In the future, the project will be imported to ROS and simulated in a 3D environment before being ported to a ROSbot.
